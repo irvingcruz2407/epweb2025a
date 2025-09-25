@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-09-05T18:24:04.519Z",
+  "error": "read ECONNRESET",
+  "apiUrl": "https://envio.cellus.com.gt:3443/services/DispatchService.svc/ObtenerProductos",
+  "headers": {
+    "Content-Type": "application/json",
+    "Host": "envio.cellus.com.gt:3443",
+    "Authorization": "YWWBcSdPkHtXcWru:S$$bct{pr`4S,KC*[^N[z*><yXz6Uf"
+  },
+  "stack": "Error: read ECONNRESET\n    at TLSWrap.onStreamRead (node:internal/stream_base_commons:218:20)"
+}

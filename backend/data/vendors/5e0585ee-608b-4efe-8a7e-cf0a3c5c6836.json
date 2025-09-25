@@ -1,0 +1,17 @@
+{
+  "id": "5e0585ee-608b-4efe-8a7e-cf0a3c5c6836",
+  "correlativeCode": 1,
+  "username": "Guatemala Store Antigua",
+  "password": "11223344",
+  "address": "Antigua guatemala",
+  "phone": "+5254882456",
+  "deviceId": "a74c73bf-98f2-440d-beff-03decf8942cd",
+  "role": "VENDEDOR",
+  "groupCode": "2050",
+  "permissions": {
+    "recargas": true,
+    "remesas": false,
+    "transporte": true,
+    "pagos": false
+  }
+}

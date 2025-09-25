@@ -1,0 +1,14 @@
+{
+  "id": "908866140",
+  "userId": "f6701eab-00c0-4ca5-8580-f7a8f55b61df",
+  "timestamp": "2025-09-20T20:17:25.976Z",
+  "type": "phone-confirmation",
+  "details": {
+    "phone": "46097257",
+    "operator": "Tigo",
+    "productDescription": "Recarga de Q5",
+    "rechargeAmount": 5,
+    "amountReceived": 5,
+    "pendingBalance": 0
+  }
+}

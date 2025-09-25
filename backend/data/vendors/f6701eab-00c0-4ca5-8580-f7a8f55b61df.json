@@ -1,0 +1,16 @@
+{
+  "id": "f6701eab-00c0-4ca5-8580-f7a8f55b61df",
+  "username": "Luis Roldan",
+  "password": "Ep11223344",
+  "address": "Ciudad de Guatemala",
+  "phone": "54882456",
+  "deviceId": "b1645127-3faa-46b6-9be0-a6f9e1aa3078",
+  "role": "ADMINISTRADOR",
+  "permissions": {
+    "recargas": true,
+    "remesas": true,
+    "transporte": true,
+    "pagos": true
+  },
+  "groupCode": "2050"
+}

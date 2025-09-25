@@ -1,0 +1,15 @@
+{
+  "id": "4903482e-a1f3-4939-9aad-1177f1c8818f",
+  "username": "EDUARDO_DEVELOPER",
+  "password": "7169454",
+  "address": "Puerto Cabello Venezuela",
+  "phone": "44946168",
+  "deviceId": "d03d91f5-d3e9-41c1-9e16-e3c2632488e9",
+  "role": "ADMINISTRADOR",
+  "permissions": {
+    "recargas": true,
+    "remesas": true,
+    "transporte": true,
+    "pagos": true
+  }
+}

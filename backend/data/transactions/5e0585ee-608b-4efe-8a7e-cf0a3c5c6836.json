@@ -1,0 +1,28 @@
+[
+  {
+    "id": "CNVU2VI9KQ",
+    "userId": "5e0585ee-608b-4efe-8a7e-cf0a3c5c6836",
+    "type": "phone",
+    "timestamp": "2025-08-21T19:44:46.550Z",
+    "amount": 5,
+    "details": {
+      "phone": "54882456",
+      "operator": "Claro",
+      "amount": "5.00",
+      "productDescription": "Recarga electronica Claro Q.5.00"
+    }
+  },
+  {
+    "id": "C30LVRE36Q",
+    "userId": "5e0585ee-608b-4efe-8a7e-cf0a3c5c6836",
+    "type": "phone",
+    "timestamp": "2025-08-21T20:09:03.468Z",
+    "amount": 5,
+    "details": {
+      "phone": "54882456",
+      "operator": "Claro",
+      "amount": "5.00",
+      "productDescription": "Recarga electronica Claro Q.5.00"
+    }
+  }
+]

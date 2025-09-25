@@ -1,0 +1,24 @@
+
+{
+  "providers": {
+    "phoneRecharge": [
+      { "name": "Tigo", "apiEndpoint": "https://envio.cellus.com.gt:3443/services/DispatchService.svc/ProcesarTransaccion" },
+      { "name": "Claro", "apiEndpoint": "https://estacionpago.ehub.com.gt/recargas.svc/VentaProducto"},
+      { "name": "Movistar", "apiEndpoint": "https://api.movistar.com.gt/recharge" }
+    ],
+    "remittances": [
+      { "name": "Banco Industrial", "apiEndpoint": "https://api.bi.com.gt/remesas" },
+      { "name": "Banrural", "apiEndpoint": "https://api.banrural.com.gt/remesas" },
+      { "name": "G&T Continental", "apiEndpoint": "https://api.gytcontinental.com.gt/remesas" }
+    ],
+    "transport": {
+      "cardName": "Tarjeta Ciudadana",
+      "apiEndpoint": "https://api.transporte.gt/recharge"
+    },
+    "servicePayments": [
+      { "name": "EEGSA (Electricidad)", "apiEndpoint": "https://api.eegsa.com/pay" },
+      { "name": "EMPAGUA (Agua)", "apiEndpoint": "https://api.empagua.com/pay" },
+      { "name": "Claro Hogar (Internet/TV)", "apiEndpoint": "https://api.claro.com.gt/pay" }
+    ]
+  }
+}

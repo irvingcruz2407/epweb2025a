@@ -1,0 +1,41 @@
+[
+  {
+    "id": "76U2ZVFZP",
+    "userId": "f6701eab-00c0-4ca5-8580-f7a8f55b61df",
+    "type": "phone",
+    "timestamp": "2025-09-11T01:03:39.849Z",
+    "amount": 1,
+    "details": {
+      "phone": "54882456",
+      "operator": "Claro",
+      "amount": "1.00",
+      "productDescription": "Recarga Prueba"
+    }
+  },
+  {
+    "id": "FUT3LUNL9",
+    "userId": "f6701eab-00c0-4ca5-8580-f7a8f55b61df",
+    "type": "phone",
+    "timestamp": "2025-09-16T18:37:32.618Z",
+    "amount": 1,
+    "details": {
+      "phone": "54882456",
+      "operator": "Claro",
+      "amount": "1.00",
+      "productDescription": "Recarga Prueba"
+    }
+  },
+  {
+    "id": "FDEZHUIOA",
+    "userId": "f6701eab-00c0-4ca5-8580-f7a8f55b61df",
+    "type": "phone",
+    "timestamp": "2025-09-20T15:17:12.255Z",
+    "amount": 1,
+    "details": {
+      "phone": "54882456",
+      "operator": "Claro",
+      "amount": "1.00",
+      "productDescription": "Recarga Prueba"
+    }
+  }
+]

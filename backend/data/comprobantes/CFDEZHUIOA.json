@@ -1,0 +1,14 @@
+{
+  "id": "FDEZHUIOA",
+  "userId": "f6701eab-00c0-4ca5-8580-f7a8f55b61df",
+  "timestamp": "2025-09-20T15:17:12.255Z",
+  "type": "phone-confirmation",
+  "details": {
+    "phone": "54882456",
+    "operator": "Claro",
+    "productDescription": "Recarga Prueba",
+    "rechargeAmount": 1,
+    "amountReceived": 1,
+    "pendingBalance": 0
+  }
+}

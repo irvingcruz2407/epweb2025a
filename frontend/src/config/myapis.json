@@ -1,0 +1,15 @@
+
+{
+  "operators": {
+    "claro": {
+      "url": "https://estacionpago.ehub.com.gt/recargas.svc/VentaProducto",
+      "credentials": "estacion.depago:12345_",
+      "ignoreSsl": false,
+      "extraHeaders": {}
+    },
+    "tigo": {
+      "url": "https://envio.cellus.com.gt:3443/services/DispatchService.svc/ProcesarTransaccion",
+      "credentials": "YWWBcSdPkHtXcWru:S$$bct{pr`4S,KC*[^N[z*><yXz6Uf"
+    }
+  }
+}

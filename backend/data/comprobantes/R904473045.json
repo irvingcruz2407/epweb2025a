@@ -1,0 +1,11 @@
+{
+  "Result": {
+    "IdProducto": 101005,
+    "IdSistema": 194949,
+    "IdTransaccion": 904473045,
+    "Mensaje": "Se han transferido Q5 al 46097257. Su nuevo saldo es Q83.07 Ref: R250920.1017.230005 Gracias por utilizar el servicio Tigo.",
+    "Procesado": true,
+    "RefPlataforma": "R250920.1017.230005",
+    "Valor": 5
+  }
+}

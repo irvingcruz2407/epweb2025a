@@ -1,0 +1,16 @@
+{
+  "id": "34ce0901-77a3-4806-83d2-96281a2dba24",
+  "username": "Venezuela Store",
+  "password": "Ep11223344",
+  "address": "Calle Bemudes Cruce con calle",
+  "phone": "+584244946168",
+  "deviceId": "8a1970d9-6b09-4b66-9aae-f7a0a9c9216a",
+  "role": "VENDEDOR",
+  "permissions": {
+    "recargas": true,
+    "remesas": false,
+    "transporte": true,
+    "pagos": false
+  },
+  "groupCode": "2050"
+}

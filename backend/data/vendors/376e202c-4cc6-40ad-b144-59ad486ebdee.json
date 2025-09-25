@@ -1,0 +1,16 @@
+{
+  "id": "376e202c-4cc6-40ad-b144-59ad486ebdee",
+  "username": "Guatemala Store",
+  "password": "Ep11223344",
+  "address": "Calle Bemudes Cruce con calle",
+  "phone": "54882456",
+  "deviceId": "a831623e-d557-49f3-89ab-f78bbb78063c",
+  "role": "VENDEDOR",
+  "permissions": {
+    "recargas": true,
+    "remesas": false,
+    "transporte": false,
+    "pagos": false
+  },
+  "groupCode": "1010"
+}
